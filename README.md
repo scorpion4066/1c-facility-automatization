@@ -1,0 +1,1 @@
+# 1c-facility-automatization
